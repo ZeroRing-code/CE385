@@ -1,0 +1,1 @@
+fetchStudentByIdAsync(id)
